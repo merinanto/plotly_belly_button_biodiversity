@@ -1,5 +1,5 @@
 # plotly_belly_button_biodiversity
-plotly_belly_button_biodiversity project  is an interactive dashboard created on Github pages based on a dataset documenting the bacterial cultures found in the belly buttons of 152 anonymous volunteer test subjects.Dashbroad displays completed panel for demographic information. Also interactive session shows the  top 10 bacterial species in the belly buttons of selected volunteer.
+plotly_belly_button_biodiversity project  is an interactive dashboard created on Github pages based on a dataset documenting the bacterial cultures found in the belly buttons of 152 anonymous volunteer test subjects.Dashboard displays completed panel for demographic information. Also interactive session shows the  top 10 bacterial species in the belly buttons of selected volunteer.
 ## Resources
 
 - Tools :-
@@ -13,5 +13,5 @@ plotly_belly_button_biodiversity project  is an interactive dashboard created on
  
  ## Dashbroad 
 
- Dashbroad is accessible at [Belly Button Biodiversity Dashboard](https://merinanto.github.io/plotly_belly_button_biodiversity/)
+ Dashboard is accessible at [Belly Button Biodiversity Dashboard](https://merinanto.github.io/plotly_belly_button_biodiversity/)
  
